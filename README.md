@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+# 欢迎访问我大二下的JAVA学习仓库！
+我将在这里分享我在大二下学习JAVA过程中的代码、思考以及资料！
+不知道在经过上个学期面向对象的课程之后，我们既对编程有了基础的了解，但是又从未接触过这门语言，JAVA的课程又会采用一个什么样的定位呢？
+希望和大家一起进步！
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
